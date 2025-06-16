@@ -1,5 +1,3 @@
-# vlan-project
-
 # VLAN Configuration Project
 
 This project demonstrates basic VLAN configuration using Cisco Packet Tracer.
